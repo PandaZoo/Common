@@ -1,2 +1,2 @@
 # Common
-Common code which can be reused
+Common code which can be reused.
